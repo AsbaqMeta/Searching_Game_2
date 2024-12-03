@@ -1,0 +1,4 @@
+repository "Searching_Game@moakrma@cloud"
+  path "/"
+    br "/main"
+    co "/main"

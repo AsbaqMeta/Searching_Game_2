@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "300087872954",
+    "firebase_url": "https://minigames-7f692-default-rtdb.firebaseio.com",
+    "project_id": "minigames-7f692",
+    "storage_bucket": "minigames-7f692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300087872954:android:ff8f10543a51ed7d79a183",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MiniGame2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBiPYQ5msG7LmDdDx-ZO5i9yIt8qKFJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300087872954:android:5d3e4d6de3e0448879a183",
+        "android_client_info": {
+          "package_name": "com.NextLevelGames.MiniGame1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnBiPYQ5msG7LmDdDx-ZO5i9yIt8qKFJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
